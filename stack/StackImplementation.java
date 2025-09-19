@@ -1,3 +1,4 @@
+package stack;
 public class StackImplementation {
     public static void main(String[] args) {
         MyStack stack = new MyStack(3);
@@ -16,3 +17,4 @@ public class StackImplementation {
 
     }
 }
+
