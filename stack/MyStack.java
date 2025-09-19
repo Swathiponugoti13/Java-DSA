@@ -1,3 +1,4 @@
+package stack;
 public class MyStack {
 
     private int[] stackArray;
@@ -47,3 +48,4 @@ public class MyStack {
         System.out.println("Stack capacity expanded to " + newCapacity);
     }
 }
+
