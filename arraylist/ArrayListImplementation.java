@@ -1,3 +1,4 @@
+package arraylist;
 public class ArrayListImplementation {
 
         public static void main(String[] args) {
@@ -17,3 +18,4 @@ public class ArrayListImplementation {
 
     }
 }
+
