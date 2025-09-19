@@ -1,3 +1,4 @@
+package arraylist;
 public class MyArrayList {
 
     private int[] data;
@@ -73,3 +74,4 @@ public class MyArrayList {
 
 
 }
+
